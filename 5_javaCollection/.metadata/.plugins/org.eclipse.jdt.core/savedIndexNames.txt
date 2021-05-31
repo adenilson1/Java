@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/adenilson/Documentos/doc_java/alura/8_javaCollection/.metadata/.plugins/org.eclipse.jdt.core
+2656965829.index
+646308851.index
+2512026671.index

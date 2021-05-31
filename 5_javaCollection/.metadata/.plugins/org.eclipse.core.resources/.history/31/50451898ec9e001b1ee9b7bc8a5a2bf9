@@ -1,0 +1,10 @@
+package br.com.alura;
+
+public class Aluno {
+
+	public Aluno() {
+		private String nome;
+		private int matricula;
+	}
+
+}
