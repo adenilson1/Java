@@ -1,0 +1,18 @@
+package br.com.adenilson;
+
+import java.time.LocalDate;
+import java.time.Month;
+
+public class Datas {
+	public static void main(String[] args) {
+		LocalDate hoje = LocalDate.now();
+		System.out.println(hoje);
+		
+		
+		LocalDate olimpiadasRio = LocalDate.of(2022, Month.NOVEMBER, 18);
+			
+		int anos = olimpiadasRio.getYear() - hoje.getYear();
+		System.out.println(anos);
+	}
+
+}

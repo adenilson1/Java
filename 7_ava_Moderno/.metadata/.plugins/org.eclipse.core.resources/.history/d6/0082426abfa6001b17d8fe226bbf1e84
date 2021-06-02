@@ -1,0 +1,9 @@
+package br.com.adenilson;
+
+public class ExemploStreams {
+
+	public ExemploStreams() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
