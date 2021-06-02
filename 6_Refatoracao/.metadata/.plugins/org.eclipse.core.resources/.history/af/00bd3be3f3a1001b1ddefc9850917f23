@@ -1,0 +1,22 @@
+package br.com.caelum.livraria.dominio;
+
+public class Validar {
+	
+	private final ISBN isbn;
+	private String valor;
+	private String valorSomenteNumeros;
+	private int tot;
+	private int checksum;
+	
+	public Validar(ISBN isbn, String valor, String valorSomenteNumeros, int tot, int checksum) {
+		super();
+		this.isbn = isbn;
+		this.valor = valor;
+		this.valorSomenteNumeros = valorSomenteNumeros;
+		this.tot = tot;
+		this.checksum = checksum;
+	}
+	
+	
+
+}

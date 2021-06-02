@@ -1,0 +1,15 @@
+package br.com.caelum.livraria.service;
+
+import java.util.HashSet;
+import java.util.Set;
+
+import br.com.caelum.livraria.dominio.CarrinhoDeCompras;
+
+public class CarrinhoDeComprasFactory {
+	private final Set<CarrinhoDeCompras> carrinhos;
+	
+	public CarrinhoDeComprasFactory() {
+		this.carrinhos = new HashSet<>();
+	}
+
+}

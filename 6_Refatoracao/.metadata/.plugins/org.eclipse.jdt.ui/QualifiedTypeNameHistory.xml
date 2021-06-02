@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="br.com.caelum.livraria.dominio.Validar"/>
+    <fullyQualifiedTypeName name="org.javamoney.moneta.Money"/>
+    <fullyQualifiedTypeName name="br.com.caelum.livraria.dominio.TipoDeDesconto"/>
+    <fullyQualifiedTypeName name="br.com.caelum.livraria.dominio.CarrinhoDeCompras"/>
+    <fullyQualifiedTypeName name="br.com.caelum.livraria.service.CarrinhoDeComprasFactory"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="br.com.caelum.livraria.dominio.ObjetosParaTestes"/>
+    <fullyQualifiedTypeName name="br.com.caelum.livraria.dominio.Autor"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,8 @@
+1618842836395	Extract method 'agendaPalestra'
+1618843296074	Inline method 'lerPalestra'
+1618844026419	Inline local variable 'tempoDeDuracaoEmMinutos'
+1618853538591	Extract method 'lerNomeDaPalestra'
+1618853580647	Extract method 'lerTempoDeDuracaoDaPalestra'
+1618853656955	Inline local variable 'nome'
+1618853686153	Inline local variable 'tempoString'
+1618854056395	Rename local variable 'nomeDaTrilha'

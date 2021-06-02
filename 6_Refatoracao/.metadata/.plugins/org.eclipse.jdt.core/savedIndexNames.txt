@@ -1,0 +1,11 @@
+INDEX VERSION 1.131+/home/adenilson/Documentos/doc_java/alura/9_alura_Refatoracao/.metadata/.plugins/org.eclipse.jdt.core
+4148460254.index
+1801627759.index
+435841276.index
+1523792218.index
+1833642088.index
+2158064266.index
+2439572990.index
+3328994973.index
+640652760.index
+1476881100.index

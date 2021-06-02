@@ -1,0 +1,14 @@
+package br.com.adenilson;
+
+public class Banco {
+
+	public void depositarConta(Conta a, double valor) {
+		a.setSaldo(a.getSaldo() + valor);
+	}
+
+	public void realizaTransferencia(Conta a, double valor, Conta c) {
+		a.setSaldo(a.getSaldo() - valor);
+		c.setSaldo(c.getSaldo() + valor);
+	}
+
+}
