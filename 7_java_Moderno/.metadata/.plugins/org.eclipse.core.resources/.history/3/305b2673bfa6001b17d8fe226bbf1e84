@@ -1,0 +1,24 @@
+package br.com.adenilson;
+
+public class ExemploStreams {
+	private String nome;
+	private int alunos;
+	
+	public ExemploStreams(String nome, int alunos) {
+		this.nome = nome;
+		this.alunos = alunos;
+	}
+
+	public String getNome() {
+		return nome;
+	}
+
+	public int getAlunos() {
+		return alunos;
+	}
+	
+	
+
+
+
+}

@@ -1,0 +1,22 @@
+package br.com.adenilson;
+
+import java.time.LocalDate;
+import java.time.Month;
+import java.time.Period;
+
+public class Datas {
+	public static void main(String[] args) {
+		LocalDate hoje = LocalDate.now();
+		System.out.println(hoje);
+		
+		
+		LocalDate copaDoMundoQata = LocalDate.of(2022, Month.NOVEMBER, 18);
+			
+		int anos = copaDoMundoQata.getYear() - hoje.getYear();
+		System.out.println(anos);
+		
+		Period perido = Period.between(hoje,copaDoMundoQata);
+		System.out.println(perido.getDays());
+	}
+
+}
