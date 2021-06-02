@@ -1,0 +1,11 @@
+package br.com.adenilson;
+
+public class CalculadoraTesteComJUnit {
+	
+	public void deveriaSomarDoisNumerosPositivos() {
+		Calculadora cal = new Calculadora();
+		int soma = cal.somar(3, 7);
+		
+	}
+
+}

@@ -1,0 +1,18 @@
+package br.com.adenilson;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import org.junit.jupiter.api.Test;
+
+public class CalculadoraTesteComJUnit {
+	
+	@Test
+	public void deveriaSomarDoisNumerosPositivos() {
+		Calculadora cal = new Calculadora();
+		int soma = cal.somar(3, 7);
+		
+		assert.assertEquals(10, soma);
+		
+	}
+
+}

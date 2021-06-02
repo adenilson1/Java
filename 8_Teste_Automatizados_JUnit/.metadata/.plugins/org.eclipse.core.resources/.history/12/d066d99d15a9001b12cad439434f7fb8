@@ -1,0 +1,18 @@
+package br.com.alura.tdd.service;
+
+import java.time.LocalDate;
+
+import org.junit.jupiter.api.Test;
+
+import br.com.alura.tdd.modelo.Funcionario;
+
+class ReajusteServiceTest {
+
+	@Test
+	void rajusteDeveriaSerDeTresPorcentoQuandoDesempenhoForADedejar() {
+		ReajusteService service = new ReajusteService();
+		Funcionario fulano = new Funcionario("Fulano", LocalDate.now(), "2000.00");
+
+	}
+
+}

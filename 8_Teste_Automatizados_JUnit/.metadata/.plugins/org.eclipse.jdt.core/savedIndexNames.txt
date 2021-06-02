@@ -1,0 +1,18 @@
+INDEX VERSION 1.131+/home/adenilson/Documentos/doc_java/alura/11_alura_Teste_Automatizados_JUnit/.metadata/.plugins/org.eclipse.jdt.core
+1866305599.index
+1222714001.index
+262125645.index
+2864847943.index
+1071188696.index
+4269138150.index
+2202939237.index
+1928710629.index
+2261819385.index
+2577421389.index
+2858760377.index
+825353288.index
+1362892618.index
+560852023.index
+2367636437.index
+267402727.index
+2246876461.index

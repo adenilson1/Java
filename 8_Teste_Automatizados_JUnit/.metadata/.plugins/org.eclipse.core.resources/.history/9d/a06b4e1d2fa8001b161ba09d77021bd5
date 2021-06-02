@@ -1,0 +1,11 @@
+package br.com.adenilson;
+
+public class CalculadoraTeste {
+	
+	public static void main(String[] args) {
+		Calculadora c = new Calculadora();
+		
+		System.out.println(c.somar(3, 7));
+	}
+
+}
